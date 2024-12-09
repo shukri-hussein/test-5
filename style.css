@@ -1,0 +1,22 @@
+.container{
+    border: 3px black solid;
+    height: 500px;
+    display: flex;
+    justify-content: flex-start;
+    justify-content: flex-end;
+    justify-content: center;
+    justify-content: space-evenly;
+    justify-content: space-between;
+    justify-content: space-around; 
+    flex-wrap: wrap;
+
+
+}
+.box{
+    background-color: blue;
+    color: white;
+    width: 150px;
+    height: 100px;
+    font-size: 20px;
+    text-align: center;
+}
